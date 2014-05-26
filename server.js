@@ -3,8 +3,6 @@ var routes = require('./routes');
 
 var server = new Hapi.Server(8080);
 
-console.log('Routes Below...');
-console.log(routes());
 server.route(routes());
 
 server.start(function() {
