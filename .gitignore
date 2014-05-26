@@ -1,0 +1,42 @@
+node_modules
+public
+.tmp
+.sass-cache
+client/bower_components
+heroku
+views
+.idea
+notes.txt
+
+# general
+.idea
+.DS_Store
+*~
+.sass-cache
+
+# package control
+node_modules
+client/vendor
+
+# logs
+npm-debug.log
+
+# build artifacts
+bin
+build/tmp
+build/dist
+
+# os artifacts
+.DS_Store
+
+.idea/*.xml
+.idea/workspace.xml
+.idea/*.iml
+*.orig
+.orig
+
+.bower-cache
+.bower-cache/*
+.bower-registry
+.bower-registry/*
+.bower-tmp

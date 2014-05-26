@@ -1,0 +1,16 @@
+{
+  "name": "hapi-app",
+  "version": "0.0.1",
+  "description": "Playing wit Hapi to see if it can make me Hapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lance Cranford",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^5.1.0",
+    "requireindex": "^1.1.0",
+    "underscore": "^1.6.0"
+  }
+}
